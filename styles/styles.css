@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: rgb(29, 25, 25);
+  background-color: #fff0f5; /* light pink */
+  background-image: url('https://media.istockphoto.com/id/2175699702/photo/gladiolus-macro.webp?a=1&b=1&s=612x612&w=0&k=20&c=HD7LUIUu9ZUKasZG6Jf_tdehYWGbhs_613Bwup4Y2AM=');
+  background-size: 100% 50vh;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+li {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 14px;  /* moved font size here properly */
+  font-style: inherit;
+}
+
+a {
+  color: maroon;
+}
+
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: aqua;
+}
+
+
